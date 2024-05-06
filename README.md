@@ -4,7 +4,7 @@
 - 💞️ I’m looking to learning and helping out one another.
 - 📫 How to reach me "Maybe one day"...
 - 😄 
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... I am a cat
 
 <!---
 N-Lindrot/N-Lindrot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
